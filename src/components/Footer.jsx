@@ -4,7 +4,6 @@ const Footer = () => {
   return <footer>
     <div>
           <h1>TECHSTAR</h1>
-          
         <p>@All Right Reserved</p>
       
     </div>
