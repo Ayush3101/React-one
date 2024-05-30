@@ -3,7 +3,8 @@ import React from 'react';
 const Footer = () => {
   return <footer>
     <div>
-        <h1>TECHSTAR</h1>
+          <h1>TECHSTAR</h1>
+          
         <p>@All Right Reserved</p>
       
     </div>
