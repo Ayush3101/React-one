@@ -38,10 +38,9 @@ const Home = () => {
             }}
             >
                 <AiFillGoogleCircle/>
-
                 <p>
                 Google
-                    </p>
+                </p>
             </div>
     
             <div style={{
